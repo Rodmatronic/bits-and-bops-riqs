@@ -33,3 +33,18 @@ Now, Select this as the default.
 ![image](https://github.com/Rodmatronic/bits-and-bops-riqs/assets/105672808/37de71cc-2dce-42f1-9322-8b81dfa0d04c)
 
 Everything should work now
+
+# macOS
+
+Sadly, due to how stubbourn macOS is, you cannot automagically set it up to open any .riq for bits and bops. Buuuuut!
+You can put in some terminal-action, and get it running just like Linux.
+
+1.) Go to Steam (skip for itch) and click the Cog icon (settings icon, click the Bits and Bops game in your steam library) and click Manage > Browse Local files
+2.) Right-click your Bits and Bops.app and click Show package Contents (Fun fact! All .apps on macos are just folders, but fancy)
+3.) Navigate into Contents
+4.) Now, right-click onto the MacOS directory and click Open in new terminal
+5.) Now, in the Finder window, navigate into the MacOS folder, then drag the Bits _ Bops Executable (it should have a Black box icon) into the Terminal
+6.) Drag the .riq into the terminal
+7.) Press enter 
+
+Done! It should open up
