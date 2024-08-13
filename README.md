@@ -54,3 +54,15 @@ You can put in some terminal-action, and get it running just like Linux.
 7.) Press enter 
 
 Done! It should open up
+
+# Windows
+
+On Windows, you have a few ways to load a custom level.
+
+1. You can drag an .riq file onto the Bits & Bops.exe.
+2. You can launch the game normally, and on the disclaimer screen, press Ctrl+M. This will open an "open" dialog with which you can select your .riq file.
+3. You can right click an .riq, select "Open as...", then in the next dialog, manually select Bits & Bops.exe as the default app to open .riq files. You will be able to double click .riq files to open them with Bits & Bops from now on.
+4. You can also do the terminal trick from above, depending on your terminal program. If there is not a space after the path to your Bits & Bops.exe, you need to manually add one before dragging in your .riq file. Alternatively, if you are familiar with the command line, simply pass the .riq file's path as the first parameter for Bits & Bops.exe.
+
+If your game is the Steam version, Steam may intercept the launch and ask whether you would like to launch the game with some parameter. The parameter should simply be the path to your .riq file. Click "Continue" and the game will launch.
+
